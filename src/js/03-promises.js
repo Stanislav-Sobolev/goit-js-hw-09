@@ -61,11 +61,9 @@ form.addEventListener("submit", promiseRun);
 //       resolve ({position, delay});
 //     } else {
 //       reject ({position, delay});
-//     }
-  
+//     }  
 
 // })}
-
 
 // function promiseRun(e){
 //   e.preventDefault();
